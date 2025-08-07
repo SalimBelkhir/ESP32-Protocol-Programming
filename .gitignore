@@ -1,0 +1,13 @@
+
+# Build and binary files
+build/
+sdkconfig
+sdkconfig.old
+
+# IDE files
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
